@@ -10,7 +10,7 @@ from aiogram.utils.exceptions import CantParseEntities
 from aiogram.types import InputMediaPhoto
 
 # BOT TOKEN
-BOT_TOKEN = 'telegram_bot_token'  # <-- Replace this with your actual bot token
+BOT_TOKEN = '7159655663:AAGmBG7bPaNBr5XFm_KhIwBGiG3bSEF2ymQ'  # <-- Replace this with your actual bot token
 
 # Initialization
 bot = Bot(token=BOT_TOKEN)
